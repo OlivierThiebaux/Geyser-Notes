@@ -14,11 +14,12 @@ L'application de base est développée sur WordPress
 - Conteneurisation : Docker
 - Gestion de la base de données : Adminer
 - CI/CD (Intégration et déploiement continus) : Github Actions
-- Infrastructure de serveurs/Infrastructure as code : Ansible
-- Orchestration , Scaling, Load-Balancing : AWS, (en option si temps suffisant => Kubernetes)
+- Préproduction: Docker Compose/Traefik
+- Infrastructure de serveurs/Infrastructure as code : Terraform
+- Orchestration , Scaling, Load-Balancing : AWS EC2
 - Monitoring : Prometheus et Grafana
-- Sécurité : Fail2ban, Sonarcube
+- Sécurité : Fail2ban (réseau), Sonarqube (qualité du code)
  
-
+![Imbrication](/Schem/Geys03-imbri.png "").
 
 

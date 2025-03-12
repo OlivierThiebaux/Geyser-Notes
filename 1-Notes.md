@@ -30,8 +30,14 @@ Mardi 11/03/2025 (21h-22h25) :
 - Avancement: Le sujet est figé, il y aura toujours des ajouts ponctuelles possible.
 -	Travaux: Dossier et planification en cours d'établissement 
 
-Mercredi 11/03/2025 (09h15-) : 		
-- Humeur: Faiblement moyenne 											
+Mercredi 12/03/2025 (09h15-12h10) : 		
+- Humeur: moyenne 											
+-	Confiance: Passable
+- Avancement: Légere stagnation - plus de documents que de manipulations
+-	Travaux: Planification terminée - Dossier en cours de transfert vers google doc
+
+Mercredi 12/03/2025 (13h30-17h45) : 		
+- Humeur: Moyenne 											
 -	Confiance: Passable
 - Avancement: 
 -	Travaux: 
